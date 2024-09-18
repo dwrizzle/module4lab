@@ -3,3 +3,13 @@
 /workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.AssemblyInfo.cs
 /workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.csproj.CoreCompileInputs.cache
 /workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.sourcelink.json
+/workspaces/module4lab/module4lab/bin/Debug/net8.0/module4lab
+/workspaces/module4lab/module4lab/bin/Debug/net8.0/module4lab.deps.json
+/workspaces/module4lab/module4lab/bin/Debug/net8.0/module4lab.runtimeconfig.json
+/workspaces/module4lab/module4lab/bin/Debug/net8.0/module4lab.dll
+/workspaces/module4lab/module4lab/bin/Debug/net8.0/module4lab.pdb
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.dll
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/refint/module4lab.dll
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.pdb
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.genruntimeconfig.cache
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/ref/module4lab.dll

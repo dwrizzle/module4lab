@@ -33,7 +33,7 @@ namespace RocketLaunchApp
 
             for (int altitude = 0; altitude <= 100; altitude += 10)
             {
-                Console.WriteLine($"Altitude: {altitude} km")
+                Console.WriteLine($"Altitude: {altitude} km");
                 Thread.Sleep(500);
             }
 
