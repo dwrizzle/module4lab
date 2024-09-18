@@ -1,0 +1,5 @@
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.AssemblyInfoInputs.cache
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.AssemblyInfo.cs
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.csproj.CoreCompileInputs.cache
+/workspaces/module4lab/module4lab/obj/Debug/net8.0/module4lab.sourcelink.json
